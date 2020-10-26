@@ -1,3 +1,4 @@
+// main.cpp
 #include "Queue_lab2.h"
 
 extern const char* TestQUEUE(int& s);	//用于实验二

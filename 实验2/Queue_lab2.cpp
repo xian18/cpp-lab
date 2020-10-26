@@ -1,3 +1,4 @@
+// Queue_lab2.cpp
 #include "Queue_lab2.h"
 using namespace std;
 QUEUE::QUEUE(int m) :elems(nullptr), max(m), head(0), tail(0)

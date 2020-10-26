@@ -1,3 +1,4 @@
+// main.cpp
 #include "Stack_lab3.h"
 #include <iostream>
 #define DEBUG_FLAG 0
